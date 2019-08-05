@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1603T
+D 3.3V Switching Regulator
+$ENDCMP
+#
+#End Doc Library

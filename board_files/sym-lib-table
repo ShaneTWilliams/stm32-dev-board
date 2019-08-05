@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name stm32-dev-board)(type Legacy)(uri /Users/shane/Documents/stm32-dev-board/stm32-dev-board.lib)(options "")(descr ""))
+)
