@@ -5,10 +5,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date "sdad"
-Rev ""
-Comp ""
+Title "stm32-dev-board"
+Date "2019-07-28"
+Rev "1"
+Comp "Shane Williams"
 Comment1 ""
 Comment2 ""
 Comment3 ""
