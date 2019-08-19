@@ -10,3 +10,10 @@
 * The board has a 32.768kHz clock for RTC capabilities as well as an 8MHz system clock. It also features an indicator LED and a reset button.
 
 * The footprint of the board is 19x52 mm and its 2.54 mm pitch headers allow it to be used with standard breadboards.
+
+### Images ###
+![](https://user-images.githubusercontent.com/44215543/63297542-3c19d480-c2ac-11e9-98ee-d60ea76825aa.jpg)
+![](https://user-images.githubusercontent.com/44215543/63297412-e7765980-c2ab-11e9-8c6b-deccbb3a3359.jpg)
+![](https://user-images.githubusercontent.com/44215543/63297962-1b05b380-c2ad-11e9-8a66-58962afdf1c9.png)
+![](https://user-images.githubusercontent.com/44215543/63297964-1b05b380-c2ad-11e9-8c27-fe044a7e1f80.png)
+![](https://user-images.githubusercontent.com/44215543/63298397-ee9e6700-c2ad-11e9-9af1-0f2be324bd60.png)
