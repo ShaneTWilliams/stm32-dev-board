@@ -1,9 +1,6 @@
 # stm32-dev-board
 ### ***A small-footprint, custom development PCB for the STM32 platform***
 
-![](https://user-images.githubusercontent.com/44215543/63297542-3c19d480-c2ac-11e9-98ee-d60ea76825aa.jpg "Front of board") ![](https://user-images.githubusercontent.com/44215543/63297412-e7765980-c2ab-11e9-8c6b-deccbb3a3359.jpg "Back of board")
-
-
 * This board's MCU is an STM32F072CBT6, meaning it is a higher-end 48-pin LQFP chip with 128kB of flash and an ARM Cortex-M0 core.
 
 * The board supports CANbus, LINbus, I<sup>2</sup>C, SPI, USB,  and UART. Flashing can be achieved through an ST-LINK external flasher using the SWD protocol.
